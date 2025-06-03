@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriele Diviccaro! 👋
+# Gabriele Diviccaro | Student at ITI Ettore Majorana | Amateur Web Developer
 
 ---
 
@@ -20,7 +20,7 @@ At school, I'm gaining a solid foundation in:
 
 I'm fascinated by how technology shapes our world and I want to contribute to it. My goal is to become a skilled developer and problem-solver. I'm particularly interested in:
 
-* ( web development, game development, artificial intelligence, cybersecurity, open source projects)
+*  web development, game development, artificial intelligence, cybersecurity, open source projects
 * Building innovative solutions to real-world problems.
 * Collaborating with other developers.
 
